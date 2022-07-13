@@ -48,7 +48,7 @@
     "url": "https://1001festas.pt",
     "icon": "https://favicons.githubusercontent.com/1001festas.pt",
     "slug": "1001-festas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -60,6 +60,7 @@
     "timeMonth": 416,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-06-30": 19,
       "2022-06-21": 17,
       "2022-06-17": 17
