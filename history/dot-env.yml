@@ -1,7 +1,7 @@
 url: https://dotenv.ca
-status: up
-code: 200
-responseTime: 187
-lastUpdated: 2023-06-12T23:01:56.438Z
+status: down
+code: 500
+responseTime: 62
+lastUpdated: 2023-06-13T19:04:14.335Z
 startTime: Thu May 26 2022 20:31:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
