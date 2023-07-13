@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lostlink.net.ico",
     "slug": "lost-link",
     "status": "down",
-    "uptime": "54.23%",
+    "uptime": "54.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.46%",
-    "time": 289,
-    "timeDay": 154,
-    "timeWeek": 264,
+    "uptimeYear": "48.18%",
+    "time": 288,
+    "timeDay": 169,
+    "timeWeek": 249,
     "timeMonth": 213,
-    "timeYear": 273,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-07-12": 6,
+      "2023-07-13": 6,
+      "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -221,10 +222,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 459,
-    "timeDay": 218,
-    "timeWeek": 471,
-    "timeMonth": 371,
-    "timeYear": 444,
+    "timeDay": 213,
+    "timeWeek": 438,
+    "timeMonth": 370,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2023-06-13": 96
     }
@@ -240,11 +241,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.15%",
-    "time": 418,
-    "timeDay": 181,
-    "timeWeek": 476,
+    "time": 417,
+    "timeDay": 267,
+    "timeWeek": 424,
     "timeMonth": 411,
-    "timeYear": 416,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2023-05-27": 18,
       "2023-04-27": 733,
@@ -271,8 +272,7 @@
       "2022-08-10": 101,
       "2022-07-31": 40,
       "2022-07-26": 285,
-      "2022-07-25": 173,
-      "2022-07-13": 25
+      "2022-07-25": 173
     }
   },
   {
@@ -286,10 +286,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 236,
-    "timeDay": 68,
-    "timeWeek": 321,
-    "timeMonth": 268,
+    "time": 235,
+    "timeDay": 93,
+    "timeWeek": 286,
+    "timeMonth": 265,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2023-06-13": 96
