@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lostlink.net.ico",
     "slug": "lost-link",
     "status": "down",
-    "uptime": "32.78%",
+    "uptime": "32.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 220,
-    "timeDay": 163,
+    "timeDay": 200,
     "timeWeek": 204,
-    "timeMonth": 218,
+    "timeMonth": 219,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-04-06": 5,
+      "2024-04-07": 7,
+      "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -379,8 +380,7 @@
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
-      "2023-04-09": 1440,
-      "2023-04-08": 1440
+      "2023-04-09": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 411,
-    "timeDay": 212,
-    "timeWeek": 294,
+    "timeDay": 258,
+    "timeWeek": 297,
     "timeMonth": 377,
-    "timeYear": 396,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2023-06-13": 96
     }
@@ -409,14 +409,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/1001festas.pt.ico",
     "slug": "1001-festas",
     "status": "up",
-    "uptime": "80.30%",
+    "uptime": "80.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.19%",
     "time": 895,
-    "timeDay": 381,
-    "timeWeek": 381,
+    "timeDay": 352,
+    "timeWeek": 395,
     "timeMonth": 425,
     "timeYear": 1126,
     "dailyMinutesDown": {
@@ -559,8 +559,7 @@
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
-      "2023-04-09": 1440,
-      "2023-04-08": 198
+      "2023-04-09": 1440
     }
   },
   {
@@ -575,7 +574,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 224,
-    "timeDay": 80,
+    "timeDay": 106,
     "timeWeek": 128,
     "timeMonth": 178,
     "timeYear": 221,
