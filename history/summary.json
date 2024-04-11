@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lostlink.net.ico",
     "slug": "lost-link",
     "status": "down",
-    "uptime": "32.59%",
+    "uptime": "32.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 220,
-    "timeDay": 318,
-    "timeWeek": 211,
-    "timeMonth": 218,
+    "timeDay": 334,
+    "timeWeek": 229,
+    "timeMonth": 223,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-04-10": 6,
+      "2024-04-11": 6,
+      "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
@@ -379,8 +380,7 @@
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
-      "2023-04-13": 1440,
-      "2023-04-12": 1440
+      "2023-04-13": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 411,
-    "timeDay": 610,
-    "timeWeek": 341,
-    "timeMonth": 377,
-    "timeYear": 394,
+    "timeDay": 618,
+    "timeWeek": 379,
+    "timeMonth": 387,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2023-06-13": 96
     }
@@ -409,16 +409,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/1001festas.pt.ico",
     "slug": "1001-festas",
     "status": "up",
-    "uptime": "80.41%",
+    "uptime": "80.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.50%",
+    "uptimeYear": "64.78%",
     "time": 896,
-    "timeDay": 563,
-    "timeWeek": 468,
-    "timeMonth": 436,
-    "timeYear": 1130,
+    "timeDay": 514,
+    "timeWeek": 484,
+    "timeMonth": 440,
+    "timeYear": 1131,
     "dailyMinutesDown": {
       "2023-12-30": 836,
       "2023-12-29": 1440,
@@ -555,8 +555,7 @@
       "2023-04-20": 7,
       "2023-04-15": 1105,
       "2023-04-14": 1440,
-      "2023-04-13": 1440,
-      "2023-04-12": 1440
+      "2023-04-13": 1440
     }
   },
   {
@@ -571,9 +570,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 224,
-    "timeDay": 187,
-    "timeWeek": 141,
-    "timeMonth": 179,
+    "timeDay": 256,
+    "timeWeek": 163,
+    "timeMonth": 182,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2023-11-17": 21,
