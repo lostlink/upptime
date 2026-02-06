@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lostlink.net.ico",
     "slug": "lost-link",
     "status": "down",
-    "uptime": "16.51%",
+    "uptime": "16.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 184,
-    "timeDay": 247,
-    "timeWeek": 194,
-    "timeMonth": 211,
+    "timeDay": 175,
+    "timeWeek": 183,
+    "timeMonth": 209,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2026-02-05": 13,
+      "2026-02-06": 10,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -379,8 +380,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gucanada.com.ico",
     "slug": "gu-canada",
     "status": "up",
-    "uptime": "88.50%",
+    "uptime": "88.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 419,
-    "timeDay": 677,
-    "timeWeek": 471,
-    "timeMonth": 481,
-    "timeYear": 454,
+    "timeDay": 344,
+    "timeWeek": 441,
+    "timeMonth": 482,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2025-11-18": 112,
       "2025-10-20": 96
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/1001festas.pt.ico",
     "slug": "1001-festas",
     "status": "down",
-    "uptime": "47.65%",
+    "uptime": "47.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 265,
-    "timeDay": 240,
-    "timeWeek": 239,
+    "timeDay": 225,
+    "timeWeek": 220,
     "timeMonth": 274,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2026-02-05": 13,
+      "2026-02-06": 10,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -784,8 +785,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -800,9 +800,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 209,
-    "timeDay": 281,
-    "timeWeek": 181,
-    "timeMonth": 208,
+    "timeDay": 158,
+    "timeWeek": 171,
+    "timeMonth": 204,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-10-20": 88
