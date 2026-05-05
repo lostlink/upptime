@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lostlink.net.ico",
     "slug": "lost-link",
     "status": "down",
-    "uptime": "15.50%",
+    "uptime": "15.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 207,
-    "timeDay": 206,
-    "timeWeek": 180,
-    "timeMonth": 202,
+    "time": 208,
+    "timeDay": 276,
+    "timeWeek": 193,
+    "timeMonth": 207,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2026-05-04": 24,
+      "2026-05-05": 25,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -379,8 +380,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 453,
-    "timeDay": 468,
-    "timeWeek": 489,
-    "timeMonth": 507,
+    "timeDay": 525,
+    "timeWeek": 466,
+    "timeMonth": 513,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2026-04-21": 27,
@@ -411,18 +411,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/1001festas.pt.ico",
     "slug": "1001-festas",
     "status": "down",
-    "uptime": "44.73%",
+    "uptime": "44.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 265,
-    "timeDay": 207,
-    "timeWeek": 279,
-    "timeMonth": 309,
-    "timeYear": 268,
+    "time": 266,
+    "timeDay": 503,
+    "timeWeek": 309,
+    "timeMonth": 318,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2026-05-04": 24,
+      "2026-05-05": 25,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -785,8 +786,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -801,9 +801,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 215,
-    "timeDay": 192,
-    "timeWeek": 197,
-    "timeMonth": 229,
+    "timeDay": 219,
+    "timeWeek": 201,
+    "timeMonth": 232,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-10-20": 88
