@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lostlink.net.ico",
     "slug": "lost-link",
     "status": "down",
-    "uptime": "14.63%",
+    "uptime": "14.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 196,
-    "timeDay": 72,
+    "timeDay": 68,
     "timeWeek": 88,
-    "timeMonth": 104,
+    "timeMonth": 101,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2026-07-29": 108,
+      "2026-07-30": 100,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -379,8 +380,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 468,
-    "timeDay": 670,
-    "timeWeek": 434,
+    "timeDay": 441,
+    "timeWeek": 456,
     "timeMonth": 410,
     "timeYear": 483,
     "dailyMinutesDown": {
@@ -411,18 +411,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/1001festas.pt.ico",
     "slug": "1001-festas",
     "status": "down",
-    "uptime": "42.21%",
+    "uptime": "42.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 254,
-    "timeDay": 200,
-    "timeWeek": 113,
-    "timeMonth": 198,
+    "timeDay": 60,
+    "timeWeek": 111,
+    "timeMonth": 192,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2026-07-29": 108,
+      "2026-07-30": 100,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -785,8 +786,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -801,9 +801,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 226,
-    "timeDay": 206,
-    "timeWeek": 202,
-    "timeMonth": 348,
+    "timeDay": 143,
+    "timeWeek": 185,
+    "timeMonth": 346,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2025-10-20": 88
